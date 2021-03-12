@@ -20,7 +20,7 @@
   + 建立 tf-idf vector
 + 文章分群
   + 使用 K-means 進行分群
-  + 使用 elbow method 決定分幾群
+  + 使用 elbow method 決定分幾群![](resource/1.jpg)
 + 替文章添加標籤
   + 使用 Chi square 進行 feature selection，替每群挑選 20 ~ 50 個有意義的標籤
   + 建立台灣所有上市公司的名單，添加公司標籤
@@ -35,14 +35,22 @@
 + 技術分析
 + 原油
 + 新冠肺炎
-+ 醫療產業
-![](resource/1.jpg)
++ 醫療產業![](resource/2.jpg)
+
+#### 高相關性範例：列出各主題的feature words
+大部分的分群結果是顯著的
++ 以電動車主題為例![](resource/3.jpg)
++ 以新冠肺炎為例![](resource/4.jpg)
+#### 低相關性
+少數群無法分辨
++ 未知群一![](resource/5.jpg)
++ 未知群二![](resource/6.jpg)
 <br>
 
 
 ## 應用介面設計
 Demo影片 [here](https://youtu.be/3PJanHvEdhE).
-
+![](resource/7.jpg)
 功能
 + 透過下滑式選單、或輸入文章編號查詢相關文章
 + 文章下方顯示該文章的標籤與企業標籤
