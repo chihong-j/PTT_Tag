@@ -36,12 +36,12 @@
 + 原油
 + 新冠肺炎
 + 醫療產業
-![]image(resource/1.jpg)
+![](resource/1.jpg)
 <br>
 
 
 ## 應用介面設計
-https://youtu.be/3PJanHvEdhE
+Demo影片 [here](https://youtu.be/3PJanHvEdhE).
 
 功能
 + 透過下滑式選單、或輸入文章編號查詢相關文章
