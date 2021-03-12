@@ -36,6 +36,7 @@
 + 原油
 + 新冠肺炎
 + 醫療產業
+![]image(resource/1.jpg)
 <br>
 
 
