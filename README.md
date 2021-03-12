@@ -16,10 +16,22 @@
 + 文章前處理
   + 刪除數字、英文、助詞
   + 使用 monpa 罔拍中文斷詞套件進行斷詞
-  + 建立term dicitonary
-  + 建立tf-idf vector
+  + 建立 term dicitonary
+  + 建立 tf-idf vector
 + 文章分群
-  + 使用K-means進行分群
-  + 使用elbow method決定分幾群
-  + 使用Chi square進行feature selection，替每群挑選20 ~ 50個有意義的標籤
+  + 使用 K-means 進行分群
+  + 使用 elbow method 決定分幾群
+  + 使用 Chi square 進行 feature selection，替每群挑選 20 ~ 50 個有意義的標籤
   + 建立台灣所有上市公司的名單，添加公司標籤
+<br>
+
+
+## 分群結果
+### 具明顯主題
+以下列出各群較有代表性的幾個例子
++ 股票
++ 企業營運分析
++ 技術分析
++ 原油
++ 新冠肺炎
++ 醫療產業
