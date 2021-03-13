@@ -20,7 +20,9 @@
   + 建立 tf-idf vector
 + 文章分群
   + 使用 K-means 進行分群
-  + 使用 elbow method 決定分幾群![](resource/1.jpg)
+  + 使用 elbow method 決定分幾群
+  透過觀察各群的feature words，以及elbow method輔助，決定分為21群
+  ![](resource/1.jpg)
 + 替文章添加標籤
   + 使用 Chi square 進行 feature selection，替每群挑選 20 ~ 50 個有意義的標籤
   + 建立台灣所有上市公司的名單，添加公司標籤
