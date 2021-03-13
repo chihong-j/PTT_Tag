@@ -40,18 +40,18 @@
 
 #### 高相關性範例：列出各主題的feature words
 大部分的分群結果是顯著的
-+ 以電動車主題為例![](resource/3.jpg)
-+ 以新冠肺炎為例![](resource/4.jpg)
++ 以電動車主題為例<br>![](resource/3.jpg)
++ 以新冠肺炎為例<br>![](resource/4.jpg)
 #### 低相關性
 少數群無法分辨
-+ 未知群一![](resource/5.jpg)
-+ 未知群二![](resource/6.jpg)
++ 未知群一<br>![](resource/5.jpg)
++ 未知群二<br>![](resource/6.jpg)
 <br>
 
 
 ## 應用介面設計
 Demo影片 [here](https://youtu.be/3PJanHvEdhE).
-![](resource/7.jpg)
+<br>![](resource/7.jpg)<br>
 功能
 + 透過下滑式選單、或輸入文章編號查詢相關文章
 + 文章下方顯示該文章的標籤與企業標籤
