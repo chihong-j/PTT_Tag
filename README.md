@@ -69,5 +69,5 @@ Demo影片 [here](https://youtu.be/3PJanHvEdhE).
 
 
 ## 結論
-+ 我們針對目前觀察到 PTT 的功能不足，使用 Information Retrival 與 Text Mining 的技術，先將文章分群，為文章內容建立了 tag，並且使用不同 tag 來達到推薦文章、主題閱讀等功能的實現。
++ 我們針對目前觀察到 PTT 的功能不足，使用 Information Retrieval 與 Text Mining 的技術，先將文章分群，為文章內容建立了 tag，並且使用不同 tag 來達到推薦文章、主題閱讀等功能的實現。
 + 我們為 PTT 建立了主題式的文章瀏覽，以及在看完文章後，能夠顯示該文章的主題標籤與相關企業，為 PTT 增添更具人性化、深入搜索的擴充設計，讓 PTT 相較其他論壇或網站不足之處得以補強，更貼近使用者的需求。
